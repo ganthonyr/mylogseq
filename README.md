@@ -7,5 +7,5 @@ Some sources for Logseq users
 
 ***To download:***
 1. Go to "template pannel" in your logseq.
-2. Search "Banner book"
+2. Search "Book banner"
 3. Press `install`
